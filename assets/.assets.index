@@ -1,0 +1,418 @@
+1
+416
+720x1280/com/pinoybbdev/epicue/AccountPage.qml
+720x1280/com/pinoybbdev/epicue/component/ContactInfoButton.qml
+720x1280/com/pinoybbdev/epicue/component/ContactSocialInfoButton.qml
+720x1280/com/pinoybbdev/epicue/component/CrossPostButton.qml
+720x1280/com/pinoybbdev/epicue/component/CueponItem.qml
+720x1280/com/pinoybbdev/epicue/component/EpicueTitleBar.qml
+720x1280/com/pinoybbdev/epicue/component/FeaturedRestoItem.qml
+720x1280/com/pinoybbdev/epicue/component/HeaderLabel.qml
+720x1280/com/pinoybbdev/epicue/component/Rating.qml
+720x1280/com/pinoybbdev/epicue/component/RecommendedRestoItem.qml
+720x1280/com/pinoybbdev/epicue/component/RestoInfoLabel.qml
+720x1280/com/pinoybbdev/epicue/component/RestoTabButton.qml
+720x1280/com/pinoybbdev/epicue/component/SearchedRestoItem.qml
+720x1280/com/pinoybbdev/epicue/component/SearchTitleBar.qml
+720x1280/com/pinoybbdev/epicue/component/SheetTitleBar.qml
+720x1280/com/pinoybbdev/epicue/component/TrafficPicker.qml
+720x1280/com/pinoybbdev/epicue/component/TrafficPickerItem.qml
+720x1280/com/pinoybbdev/epicue/container/ContentView.qml
+720x1280/com/pinoybbdev/epicue/container/CueponNotificationContainer.qml
+720x1280/com/pinoybbdev/epicue/container/MainContainer.qml
+720x1280/com/pinoybbdev/epicue/container/NotificationContainer.qml
+720x1280/com/pinoybbdev/epicue/container/SectionContainer.qml
+720x1280/com/pinoybbdev/epicue/CuesPage.qml
+720x1280/com/pinoybbdev/epicue/FacebookSheet.qml
+720x1280/com/pinoybbdev/epicue/LoginSheet.qml
+720x1280/com/pinoybbdev/epicue/PostCueSheet.qml
+720x1280/com/pinoybbdev/epicue/PostTest.qml
+720x1280/com/pinoybbdev/epicue/RegistrationSheet.qml
+720x1280/com/pinoybbdev/epicue/RestaurantPage.qml
+720x1280/com/pinoybbdev/epicue/resto/ContactInfoSection.qml
+720x1280/com/pinoybbdev/epicue/resto/GeneralInfoSection.qml
+720x1280/com/pinoybbdev/epicue/resto/LocationInfoSection.qml
+720x1280/com/pinoybbdev/epicue/resto/MenuInfoSection.qml
+720x1280/com/pinoybbdev/epicue/resto/RestaurantInfoContainer.qml
+720x1280/com/pinoybbdev/epicue/resto/ReviewItem.qml
+720x1280/com/pinoybbdev/epicue/resto/ReviewsInfoSection.qml
+720x1280/com/pinoybbdev/epicue/SearchPage.qml
+720x1280/com/pinoybbdev/epicue/SearchSheet.qml
+720x1280/com/pinoybbdev/epicue/TwitterSheet.qml
+720x720/com/pinoybbdev/epicue/AccountPage.qml
+720x720/com/pinoybbdev/epicue/component/ContactInfoButton.qml
+720x720/com/pinoybbdev/epicue/component/ContactSocialInfoButton.qml
+720x720/com/pinoybbdev/epicue/component/CrossPostButton.qml
+720x720/com/pinoybbdev/epicue/component/EpicueTitleBar.qml
+720x720/com/pinoybbdev/epicue/component/FeaturedRestoItem.qml
+720x720/com/pinoybbdev/epicue/component/HeaderLabel.qml
+720x720/com/pinoybbdev/epicue/component/Rating.qml
+720x720/com/pinoybbdev/epicue/component/RecommendedRestoItem.qml
+720x720/com/pinoybbdev/epicue/component/RestoInfoLabel.qml
+720x720/com/pinoybbdev/epicue/component/RestoTabButton.qml
+720x720/com/pinoybbdev/epicue/component/SearchedRestoItem.qml
+720x720/com/pinoybbdev/epicue/component/SearchTitleBar.qml
+720x720/com/pinoybbdev/epicue/component/SheetTitleBar.qml
+720x720/com/pinoybbdev/epicue/component/TrafficPicker.qml
+720x720/com/pinoybbdev/epicue/component/TrafficPickerItem.qml
+720x720/com/pinoybbdev/epicue/container/ContentView.qml
+720x720/com/pinoybbdev/epicue/container/CueponNotificationContainer.qml
+720x720/com/pinoybbdev/epicue/container/MainContainer.qml
+720x720/com/pinoybbdev/epicue/container/NotificationContainer.qml
+720x720/com/pinoybbdev/epicue/container/SectionContainer.qml
+720x720/com/pinoybbdev/epicue/CuesPage.qml
+720x720/com/pinoybbdev/epicue/FacebookSheet.qml
+720x720/com/pinoybbdev/epicue/LoginSheet.qml
+720x720/com/pinoybbdev/epicue/PostCueSheet.qml
+720x720/com/pinoybbdev/epicue/PostTest.qml
+720x720/com/pinoybbdev/epicue/RegistrationSheet.qml
+720x720/com/pinoybbdev/epicue/RestaurantPage.qml
+720x720/com/pinoybbdev/epicue/resto/ContactInfoSection.qml
+720x720/com/pinoybbdev/epicue/resto/GeneralInfoSection.qml
+720x720/com/pinoybbdev/epicue/resto/LocationInfoSection.qml
+720x720/com/pinoybbdev/epicue/resto/MenuInfoSection.qml
+720x720/com/pinoybbdev/epicue/resto/RestaurantInfoContainer.qml
+720x720/com/pinoybbdev/epicue/resto/ReviewItem.qml
+720x720/com/pinoybbdev/epicue/resto/ReviewsInfoSection.qml
+720x720/com/pinoybbdev/epicue/SearchPage.qml
+720x720/com/pinoybbdev/epicue/SearchSheet.qml
+720x720/com/pinoybbdev/epicue/TwitterSheet.qml
+com/pinoybbdev/epicue/AccountPage.qml
+com/pinoybbdev/epicue/component/ContactInfoButton.qml
+com/pinoybbdev/epicue/component/ContactSocialInfoButton.qml
+com/pinoybbdev/epicue/component/CrossPostButton.qml
+com/pinoybbdev/epicue/component/CueponItem.qml
+com/pinoybbdev/epicue/component/EpicueTitleBar.qml
+com/pinoybbdev/epicue/component/FeaturedRestoItem.qml
+com/pinoybbdev/epicue/component/HeaderLabel.qml
+com/pinoybbdev/epicue/component/Rating.qml
+com/pinoybbdev/epicue/component/RecommendedRestoItem.qml
+com/pinoybbdev/epicue/component/RestoInfoLabel.qml
+com/pinoybbdev/epicue/component/RestoTabButton.qml
+com/pinoybbdev/epicue/component/SearchedRestoItem.qml
+com/pinoybbdev/epicue/component/SearchTitleBar.qml
+com/pinoybbdev/epicue/component/SheetTitleBar.qml
+com/pinoybbdev/epicue/component/TrafficPicker.qml
+com/pinoybbdev/epicue/component/TrafficPickerItem.qml
+com/pinoybbdev/epicue/container/ContentView.qml
+com/pinoybbdev/epicue/container/CueponNotificationContainer.qml
+com/pinoybbdev/epicue/container/MainContainer.qml
+com/pinoybbdev/epicue/container/NotificationContainer.qml
+com/pinoybbdev/epicue/container/SectionContainer.qml
+com/pinoybbdev/epicue/CuesPage.qml
+com/pinoybbdev/epicue/EditProfileSheet.qml
+com/pinoybbdev/epicue/FacebookSheet.qml
+com/pinoybbdev/epicue/LoginSheet.qml
+com/pinoybbdev/epicue/PostCueSheet.qml
+com/pinoybbdev/epicue/PostTest.qml
+com/pinoybbdev/epicue/RegistrationSheet.qml
+com/pinoybbdev/epicue/RestaurantPage.qml
+com/pinoybbdev/epicue/resto/ContactInfoSection.qml
+com/pinoybbdev/epicue/resto/CueItem.qml
+com/pinoybbdev/epicue/resto/GeneralInfoSection.qml
+com/pinoybbdev/epicue/resto/LocationInfoSection.qml
+com/pinoybbdev/epicue/resto/MenuInfoSection.qml
+com/pinoybbdev/epicue/resto/ProductItem.qml
+com/pinoybbdev/epicue/resto/RestaurantInfoContainer.qml
+com/pinoybbdev/epicue/resto/ReviewItem.qml
+com/pinoybbdev/epicue/resto/ReviewsInfoSection.qml
+com/pinoybbdev/epicue/SearchPage.qml
+com/pinoybbdev/epicue/SearchSheet.qml
+com/pinoybbdev/epicue/TwitterSheet.qml
+images/app_background.png
+images/app_background_dark.png
+images/app_icons/ic_add_to_contacts.png
+images/app_icons/ic_all.png
+images/app_icons/ic_attach.png
+images/app_icons/ic_bbm.png
+images/app_icons/ic_browse.png
+images/app_icons/ic_browser.png
+images/app_icons/ic_camera.png
+images/app_icons/ic_cancel.png
+images/app_icons/ic_clear.png
+images/app_icons/ic_copy.png
+images/app_icons/ic_copy_link.png
+images/app_icons/ic_delete.png
+images/app_icons/ic_done.png
+images/app_icons/ic_edit.png
+images/app_icons/ic_edit_favorite.png
+images/app_icons/ic_edit_profile.png
+images/app_icons/ic_email.png
+images/app_icons/ic_entry.png
+images/app_icons/ic_epicue_account.png
+images/app_icons/ic_epicue_contact_info.png
+images/app_icons/ic_epicue_create_cue.png
+images/app_icons/ic_epicue_cues.png
+images/app_icons/ic_favorite.png
+images/app_icons/ic_feedback.png
+images/app_icons/ic_help.png
+images/app_icons/ic_history.png
+images/app_icons/ic_home.png
+images/app_icons/ic_info.png
+images/app_icons/ic_location.png
+images/app_icons/ic_map.png
+images/app_icons/ic_nav_to_orig.png
+images/app_icons/ic_nav_to_orig_2.png
+images/app_icons/ic_open.png
+images/app_icons/ic_open_link.png
+images/app_icons/ic_phone.png
+images/app_icons/ic_reload.png
+images/app_icons/ic_save.png
+images/app_icons/ic_search.png
+images/app_icons/ic_select.png
+images/app_icons/ic_settings.png
+images/app_icons/ic_share.png
+images/app_icons/ic_sort.png
+images/app_icons/ic_sort_filter.png
+images/app_icons/ic_textmessage.png
+images/app_icons/ic_view_image.png
+images/app_icons/ic_view_list.png
+images/app_icons/ic_view_post.png
+images/arrow_right.png
+images/arrow_up.png
+images/button_background_transluscent.amd
+images/button_background_transluscent.png
+images/button_background_white.amd
+images/button_background_white.png
+images/contact_container_background.png
+images/contact_social_container_background.png
+images/contact_social_default_background.png
+images/contact_social_facebook_background.png
+images/contact_social_twitter_background.png
+images/create.png
+images/cuepon/cuepons_1.png
+images/cuepon/cuepons_10.png
+images/cuepon/cuepons_20.png
+images/cuepon/cuepons_5.png
+images/cue_post_button.png
+images/darkicons/007. Locked.png
+images/darkicons/008. Warning.png
+images/darkicons/009. Check mark.png
+images/darkicons/010. Get location.png
+images/darkicons/011. Help.png
+images/darkicons/012. Info.png
+images/darkicons/016. Search.png
+images/darkicons/017. Zoom in.png
+images/darkicons/018. Zoom out.png
+images/darkicons/019. Marker.png
+images/darkicons/020. Compass.png
+images/darkicons/021. Cloud.png
+images/darkicons/022. Upload to cloud.png
+images/darkicons/023. Download from cloud.png
+images/darkicons/024. Umbrella.png
+images/darkicons/025. Pencil.png
+images/darkicons/026. Video camera.png
+images/darkicons/027. Camera.png
+images/darkicons/029. Photo.png
+images/darkicons/030. Album.png
+images/darkicons/031. Chat.png
+images/darkicons/032. BBM.png
+images/darkicons/033. Mail.png
+images/darkicons/034. Bookmark.png
+images/darkicons/035. Heart.png
+images/darkicons/036. Star.png
+images/darkicons/037. Close.png
+images/darkicons/038. Cancel.png
+images/darkicons/039. Delete.png
+images/darkicons/040. Settings.png
+images/darkicons/041. Target.png
+images/darkicons/043. Clock.png
+images/darkicons/048. Share.png
+images/darkicons/057. Radio.png
+images/darkicons/081. YouTube.png
+images/darkicons/082. Vimeo.png
+images/darkicons/083. FaceBook.png
+images/darkicons/084. Twitter.png
+images/darkicons/085. Twitter.png
+images/darkicons/086. LinkedIn.png
+images/darkicons/087. Google Plus.png
+images/darkicons/088. Pinterest.png
+images/darkicons/089. Flickr.png
+images/darkicons/090. Subscribe.png
+images/darkicons/091. YouTube.png
+images/darkicons/092. Vimeo.png
+images/darkicons/093. FaceBook.png
+images/darkicons/094. Twitter.png
+images/darkicons/095. Twitter.png
+images/darkicons/096. LinkedIn.png
+images/darkicons/097. Google plus.png
+images/darkicons/098. Pinterest.png
+images/darkicons/099. Flickr.png
+images/darkicons/100. Subscribe.png
+images/darkicons/101. Home.png
+images/darkicons/102. Tabs menu.png
+images/darkicons/103. Overflow menu.png
+images/darkicons/107. Twitter logo.png
+images/darkicons/108. SMS.png
+images/darkicons/109. History.png
+images/darkicons/110. Reload.png
+images/darkicons/112. Add bookmark.png
+images/darkicons/114. Info.png
+images/darkicons/115. Forward.png
+images/darkicons/118. Reply.png
+images/darkicons/119. Flag.png
+images/darkicons/120. Signs.png
+images/darkicons/121. Sun.png
+images/darkicons/122. Moon.png
+images/darkicons/125. Coffee mug.png
+images/darkicons/126. Light bulb.png
+images/darkicons/127. Flag.png
+images/darkicons/131. Suitcase.png
+images/darkicons/138. Champagne glasses.png
+images/darkicons/139. Microphone.png
+images/darkicons/146. Sun.png
+images/darkicons/147. Headphones.png
+images/darkicons/148. Like.png
+images/darkicons/149. Dislike.png
+images/darkicons/150. Utensils.png
+images/darkicons/151. Calendar - day.png
+images/darkicons/155. Folder.png
+images/darkicons/156. Folder open.png
+images/darkicons/157. Fountain pen.png
+images/darkicons/158. Male in turtleneck.png
+images/darkicons/159. Male in Vneck.png
+images/darkicons/160. Female in turtleneck.png
+images/darkicons/161. Female in Vneck.png
+images/darkicons/162. Group.png
+images/darkicons/163. BBM invite.png
+images/darkicons/164. Address book.png
+images/darkicons/165. Web link1.png
+images/darkicons/166. Web link2.png
+images/darkicons/167. Web link3.png
+images/darkicons/176. Server.png
+images/darkicons/179. Cart.png
+images/darkicons/180. Basket.png
+images/darkicons/185. Pocket1.png
+images/darkicons/186. Pocket2.png
+images/darkicons/187. Google.png
+images/darkicons/188. Google+1.png
+images/darkicons/191. Open in browser.png
+images/darkicons/196. Add subscription.png
+images/darkicons/197. Cancel subscription1.png
+images/darkicons/198. Cancel subscription2.png
+images/darkicons/199. Cancel subscriptions1.png
+images/darkicons/200. Cancel subscriptions2.png
+images/darkicons/201. Tag article.png
+images/darkicons/205. Sync.png
+images/darkicons/206. Refresh1.png
+images/darkicons/207. Refresh2.png
+images/darkicons/208. Tag1.png
+images/darkicons/209. Tag2.png
+images/darkicons/210. Tags1.png
+images/darkicons/211. Tags2.png
+images/darkicons/214. Thumb tac.png
+images/darkicons/219. Box-open.png
+images/darkicons/222. Foot prints.png
+images/darkicons/225. Bluetooth.png
+images/darkicons/226. Wifi.png
+images/darkicons/232. Stop sign.png
+images/darkicons/245. Briefcase.png
+images/darkicons/246. Scooter.png
+images/darkicons/247. Motorcycle.png
+images/delete.png
+images/drop_shadow.png
+images/drop_shadow_big.png
+images/home_traffic_average.png
+images/home_traffic_background.png
+images/home_traffic_clock.png
+images/info_label_background.amd
+images/info_label_background.png
+images/info_value_background.amd
+images/info_value_background.png
+images/map_marker.png
+images/notification_background.amd
+images/notification_background.png
+images/photo_text_underlay.png
+images/picture1.png
+images/picture1br.png
+images/post_cue_add_photo.png
+images/post_cue_button.png
+images/post_cue_button_disabled.png
+images/post_traffic_level1.png
+images/post_traffic_level2.png
+images/post_traffic_level3.png
+images/post_traffic_unselected.png
+images/post_traffic_unselected1.png
+images/ratings_0_0.png
+images/ratings_0_5.png
+images/ratings_1_0.png
+images/ratings_1_5.png
+images/ratings_2_0.png
+images/ratings_2_5.png
+images/ratings_3_0.png
+images/ratings_3_5.png
+images/ratings_4_0.png
+images/ratings_4_5.png
+images/ratings_5_0.png
+images/ratings_resto_page/rating_horizontal_5_0.png
+images/resto_icons/contact_button_background.png
+images/resto_icons/contact_button_background_pressed.png
+images/resto_icons/ic_contact_browser.png
+images/resto_icons/ic_contact_browser_default.png
+images/resto_icons/ic_contact_browser_pressed.png
+images/resto_icons/ic_contact_email.png
+images/resto_icons/ic_contact_email_default.png
+images/resto_icons/ic_contact_email_pressed.png
+images/resto_icons/ic_contact_phone.png
+images/resto_icons/ic_contact_phone_default.png
+images/resto_icons/ic_contact_phone_pressed.png
+images/resto_icons/ic_contact_text.png
+images/resto_icons/ic_contact_text_default.png
+images/resto_icons/ic_contact_text_pressed.png
+images/resto_icons/ic_tab_contact.png
+images/resto_icons/ic_tab_contact_dark.png
+images/resto_icons/ic_tab_contact_selected.png
+images/resto_icons/ic_tab_gen_info.png
+images/resto_icons/ic_tab_gen_info_dark.png
+images/resto_icons/ic_tab_gen_info_selected.png
+images/resto_icons/ic_tab_location.png
+images/resto_icons/ic_tab_location_dark.png
+images/resto_icons/ic_tab_location_selected.png
+images/resto_icons/ic_tab_menu-old.png
+images/resto_icons/ic_tab_menu-old_dark.png
+images/resto_icons/ic_tab_menu.png
+images/resto_icons/ic_tab_menu_dark.png
+images/resto_icons/ic_tab_menu_selected.png
+images/resto_icons/ic_tab_reviews.png
+images/resto_icons/ic_tab_reviews_dark.png
+images/resto_icons/ic_tab_reviews_selected.png
+images/resto_traffic_level0.png
+images/resto_traffic_level1.png
+images/resto_traffic_level2.png
+images/resto_traffic_level3.png
+images/retrieve.png
+images/samples/featured_1.png
+images/samples/featured_2.png
+images/samples/queuer_card.png
+images/section_border.amd
+images/section_border.png
+images/section_border_blank.amd
+images/section_border_blank.png
+images/section_border_blank_dark.amd
+images/section_border_blank_dark.png
+images/section_border_dark.amd
+images/section_border_dark.png
+images/section_border_pointer.png
+images/section_border_pointer_dark.png
+images/social_bbm_disabled.png
+images/social_bbm_enabled.png
+images/social_facebook_disabled.png
+images/social_facebook_enabled.png
+images/social_foursquare_disabled.png
+images/social_foursquare_enabled.png
+images/social_twitter_disabled.png
+images/social_twitter_enabled.png
+images/title_bar_background.png
+images/title_bar_logo.png
+images/title_bar_post_button.png
+images/title_bar_search_button.png
+images/traffic_level0.png
+images/traffic_level0_large.png
+images/traffic_level1.png
+images/traffic_level1_large.png
+images/traffic_level2.png
+images/traffic_level2_large.png
+images/traffic_level3.png
+images/traffic_level3_large.png
+images/update.png
+main.qml
